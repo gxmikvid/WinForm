@@ -1,0 +1,10 @@
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\bin\Debug\WindowsFormsFeladat.exe.config
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\bin\Debug\WindowsFormsFeladat.exe
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\bin\Debug\WindowsFormsFeladat.pdb
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\obj\Debug\WindowsFormsFeladat.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\obj\Debug\WindowsFormsFeladat.Form1.resources
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\obj\Debug\WindowsFormsFeladat.Properties.Resources.resources
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\obj\Debug\WindowsFormsFeladat.csproj.GenerateResource.cache
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\obj\Debug\WindowsFormsFeladat.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\obj\Debug\WindowsFormsFeladat.exe
+C:\Users\cisco\source\repos\WindowsFormsFeladat\WindowsFormsFeladat\obj\Debug\WindowsFormsFeladat.pdb
